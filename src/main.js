@@ -12,6 +12,7 @@ Vue.use(router)
 Vue.use(ElementUI)
 Vue.use(Button)
 /* eslint-disable no-new */
+console.log('----')
 new Vue({
   el: '#app',
   router,
